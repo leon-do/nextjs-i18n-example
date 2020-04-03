@@ -1,0 +1,1 @@
+https://github.com/isaachinman/next-i18next#2-translation-content

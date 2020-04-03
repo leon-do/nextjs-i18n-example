@@ -1,3 +1,4 @@
+// https://github.com/isaachinman/next-i18next/blob/master/examples/simple/pages/index.js
 import { withTranslation, i18n } from "../i18n";
 import PropTypes from "prop-types";
 
